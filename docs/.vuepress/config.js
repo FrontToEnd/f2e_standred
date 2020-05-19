@@ -6,8 +6,8 @@ module.exports = {
   markdown: {
     lineNumbers: true
   },
+  base: '/f2e_standred/',
   themeConfig: {
-    base: '/f2e_standred/',
     nav: [
       { text: '首页', link: '/' },
       { text: '规范', link: '/guide/JavaScript.html' },
